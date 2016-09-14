@@ -24,7 +24,7 @@
 body{
 background-image: url('bleu.jpg');
 background-attachment: fixed;
-font-family: 'Dayrom';
+//font-family: 'Dayrom';
 
 }
 figure {
@@ -254,3 +254,4 @@ text-decoration:none;
 }
 table {
 	margin: auto;
+}
